@@ -1,0 +1,27 @@
+{
+  "token": "FOIykMKe54J5BMk689cTtQCkl0AiC4niwdh5qttbrst1PF8eCT",
+  "readwiseDir": "Readwise",
+  "frequency": "0",
+  "triggerOnLoad": true,
+  "isSyncing": false,
+  "lastSyncFailed": true,
+  "lastSavedStatusID": 21975847,
+  "currentSyncStatusID": 0,
+  "refreshBooks": false,
+  "booksToRefresh": [
+    "53380324",
+    "54592949",
+    "54592950",
+    "54592951",
+    "54592952",
+    "54593075",
+    "54598118"
+  ],
+  "failedBooks": [],
+  "booksIDsMap": {
+    "Readwise/Full Document Contents/Articles/Quickly add great reads from the Readwise community to your library.md": "readerdocument:01k3s4qdpztgjtvpm822yj108c",
+    "Readwise/Full Document Contents/Articles/Getting Started with Reader.md": "readerdocument:01k3s4qdk1y61wmths7sqwrfd4",
+    "Readwise/Full Document Contents/Articles/Reader Frequently Asked Questions.md": "readerdocument:01k3s4qdnzhswx4wh28hzpjfwz"
+  },
+  "reimportShowConfirmation": true
+}

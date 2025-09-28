@@ -1,0 +1,65 @@
+{
+  "version": "0.0.22",
+  "username": "Walid.Namane",
+  "isConnected": true,
+  "ribbonIcon": true,
+  "appendMode": true,
+  "collectionsFolders": true,
+  "onlyBookmarksWithHl": true,
+  "highlightsFolder": "0 - Inbox",
+  "collectionGroups": false,
+  "autoSyncSuccessNotice": true,
+  "syncCollections": {
+    "0": {
+      "id": 0,
+      "title": "All bookmarks",
+      "sync": true,
+      "lastSyncDate": "2025-09-28T17:46:17.638Z"
+    },
+    "3255367": {
+      "id": 3255367,
+      "title": "Other bookmarks",
+      "sync": false
+    },
+    "3255368": {
+      "id": 3255368,
+      "title": "Barre de favoris",
+      "sync": false
+    },
+    "59362367": {
+      "id": 59362367,
+      "title": "Github",
+      "sync": false
+    },
+    "59366289": {
+      "id": 59366289,
+      "title": "Articles",
+      "sync": false
+    },
+    "59366293": {
+      "id": 59366293,
+      "title": "Articles/IA",
+      "sync": false
+    },
+    "59366394": {
+      "id": 59366394,
+      "title": "Blogs",
+      "sync": false
+    },
+    "-1": {
+      "id": -1,
+      "title": "Unsorted",
+      "sync": false
+    },
+    "-99": {
+      "id": -99,
+      "title": "Trash",
+      "sync": false
+    }
+  },
+  "template": "{% if is_new_article %}\n# Metadata\n{% if link %}Source URL:: {{link}}{% endif %}\n{% if tags|length %}Topics:: #{{ tags | join(\", #\") }}{% endif %}\n\n---\n# {{title}}\n\n{% if excerpt %}{{excerpt}}{% endif %}\n\n## Highlights\n{% endif -%}{% for highlight in highlights %}\n{% if highlight.color == \"red\" -%}\n    {%- set callout = \"danger\" -%}\n{%- elif highlight.color == \"blue\" -%}\n    {%- set callout = \"info\" -%}\n{%- elif highlight.color == \"green\" -%}\n    {%- set callout = \"check\" -%}\n{%- else -%}\n    {%- set callout = \"quote\" -%}\n{%- endif -%}\n> [!{{callout}}]+ Updated on {{highlight.lastUpdate}}\n>\n> {{highlight.text.split(\"\\n\") | join(\"\\n>\")}}\n{% if highlight.note -%}> > {{highlight.note + \"\\n\"}}{%- endif %}\n\n{%- endfor -%}\n",
+  "metadataTemplate": "",
+  "filenameTemplate": "{{title}}",
+  "autoSyncInterval": 60,
+  "autoescape": true
+}
