@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2 - Notes lectures/The Age of AI/Chap 3 - De Turing à l'IA Moderne et au-delà.md",
+                "file": "0 - Inbox/AI Reports/RAG (Retrieval-Augmented Generation) - Guide Technique Complet 2025.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Chap 3 - De Turing à l'IA Moderne et au-delà"
+              "title": "RAG (Retrieval-Augmented Generation) - Guide Technique Complet 2025"
             }
           }
         ]
@@ -45,7 +45,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Explorateur de fichiers"
+              "title": "Files"
             }
           },
           {
@@ -143,13 +143,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2025-08-30.md",
+                "file": "0 - Inbox/AI Reports/RAG (Retrieval-Augmented Generation) - Guide Technique Complet 2025.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Plan de 2025-08-30"
+              "title": "Outline of RAG (Retrieval-Augmented Generation) - Guide Technique Complet 2025"
             }
           },
           {
@@ -161,47 +161,71 @@
               "icon": "calendar-with-checkmark",
               "title": "Calendar"
             }
+          },
+          {
+            "id": "8a32d4f2e4513337",
+            "type": "leaf",
+            "state": {
+              "type": "mermaid-toolbar-view",
+              "state": {},
+              "icon": "trident-custom",
+              "title": "Mermaid Toolbar"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 616.5
+    "width": 616.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Ouvrir le sélecteur rapide": false,
-      "graph:Ouvrir la vue graphique": false,
-      "canvas:Créer une nouvelle toile": false,
-      "daily-notes:Ouvrir la note quotidienne": false,
-      "templates:Insérer le modèle": false,
-      "command-palette:Ouvrir la palette de commandes": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "obsidian-raindrop-highlights:Sync your Raindrop bookmarks": false
+      "obsidian-raindrop-highlights:Sync your Raindrop bookmarks": false,
+      "remotely-save:Remotely Save": false,
+      "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "837874077b404502",
+  "active": "de37ac3e5dbcb51b",
   "lastOpenFiles": [
-    "2 - Notes lectures/The Age of AI/Chap 2 - L'Évolution de la Pensée Humaine et l'Avènement de l'IA.md",
-    "2 - Notes lectures/The Age of AI/Chap 3 - De Turing à l'IA Moderne et au-delà.md",
-    "2 - Notes lectures/The Age of AI/Chap 1  - L'Ère de l'Intelligence Artificielle,  Synthèse et Implications.md",
-    "2025-08-30.md",
     "0 - Inbox/AI Reports/Les Concepts Réseau Essentiels pour les Développeurs.md",
+    "0 - Inbox/AI Reports/RAG (Retrieval-Augmented Generation) - Guide Technique Complet 2025.md",
+    "0 - Inbox/AI Reports/Ingénierie des Prompts pour LLM - Maîtrise Technique Avancée.md",
+    "0 - Inbox/AI Reports/Théorie λ-MCD -Fondements, formalisme et applications.md",
+    "2 - Notes lectures/The Age of AI/Chap 7 - L'IA, l'Avenir et la Raison Humaine - Synthèse et Analyse.md",
+    "2 - Notes lectures/The Age of AI/Chap 6 - L'IA et l'Identité Humaine.md",
+    "2 - Notes lectures/The Age of AI/Chap 5 - Synthèse Stratégique - Sécurité, Ordre Mondial et l'Ère de l'IA.md",
+    "2 - Notes lectures/The Age of AI/Chap 4 - L'IA et les Plateformes de Réseau Mondiales -  Synthèse des Implications Sociales et Géopolitiques.md",
+    "6 - Notes techniques/README_automatisation.md",
+    "6 - Notes techniques",
+    "Untitled.base",
+    "0 - Inbox/Théodose Ier, empereur romain - Résumé et recherches associées.md",
+    "Readwise/Full Document Contents/Articles/Reader Frequently Asked Questions.md",
+    "1  - Journaux  & carnet/Daily_notes",
+    "Readwise/Full Document Contents/Articles/Quickly add great reads from the Readwise community to your library.md",
+    "Readwise/Full Document Contents/Articles/Getting Started with Reader.md",
+    "1  - Journaux  & carnet/Daily_notes/2025-09-21.md",
+    "1  - Journaux  & carnet/Daily_notes/2025-08-30.md",
+    "2 - Notes lectures/The Age of AI/Chap 3 - De Turing à l'IA Moderne et au-delà.md",
+    "2 - Notes lectures/The Age of AI/Chap 2 - L'Évolution de la Pensée Humaine et l'Avènement de l'IA.md",
+    "2 - Notes lectures/The Age of AI/Chap 1  - L'Ère de l'Intelligence Artificielle,  Synthèse et Implications.md",
     "2 - Notes lectures/The Age of AI",
     "Sans titre.canvas",
-    "2025-09-21.md",
     "introduction_to_hadoop_and_data_science_4 [Enregistré automatiquement].pptx",
     "Rendu_final.MP4",
     "Notes_DANT_2024_25.xlsx",
     "introduction_to_hadoop_and_data_science_6 [Enregistré automatiquement].pptx",
     "Rendu_final.MP4.part",
     "introduction_to_hadoop_and_data_science_6 [Enregistré automatiquement].pptx.part",
-    "introduction_to_hadoop_and_data_science_2 [Enregistré automatiquement].pptx",
-    "introduction_to_hadoop_and_data_science_4 [Enregistré automatiquement].pptx.part",
-    "introduction_to_hadoop_and_data_science_2 [Enregistré automatiquement].pptx.part",
     "Notes_phones/Théodose Ier, empereur romain - Résumé et recherches associées.md",
-    "0 - Inbox/AI Reports/Théorie λ-MCD -Fondements, formalisme et applications.md",
     "Pasted image 20250918220112.png",
     "Notations d'Adresses IP et Plages (CIDR) - visual selection.png",
     "Pasted image 20250918215438.png",
@@ -215,18 +239,9 @@
     "0 - Inbox/All bookmarks/Researchers From Stanford And DeepMind Come Up With The Idea of Using Large Language Models LLMs as a Proxy Reward Function.md",
     "0 - Inbox/All bookmarks/Le second cerveau de JCK.md",
     "0 - Inbox/All bookmarks/How to Create Web Apps with Python, HTML and Thonny.md",
-    "Readwise/Full Document Contents/Articles/Reader Frequently Asked Questions.md",
-    "Readwise/Full Document Contents/Articles/Getting Started with Reader.md",
-    "Readwise/Full Document Contents/Articles/Quickly add great reads from the Readwise community to your library.md",
     "Readwise/Articles/Le Second Cerveau De JCK.md",
     "Readwise/Articles/How to Create Web Apps With Python, HTML and Thonny.md",
     "Readwise/Articles/How I Built 6 Micro-Tools in Python That Earn Me Passive Income Daily.md",
-    "Readwise/Articles/Check! Easy Install JupyterHub and JupyterLab (Includes Trouble Shooting of Installing….md",
-    "Clippings/I Tested Every AI Code Generator — Here’s theWinner.md",
-    "Readwise/Articles/Machine Learning for Fraud Detection in Streaming Services.md",
-    "Readwise/Articles/Introducing ChatGPT!.md",
-    "Readwise/Articles/What’s the Difference Between a Metric and a Loss Function.md",
-    "Sans titre 1.canvas",
-    "2025-08-29.md"
+    "Sans titre 1.canvas"
   ]
 }
