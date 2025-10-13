@@ -4,22 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "41a2c315553203e7",
+        "id": "62cb5a6a618fe7cc",
         "type": "tabs",
         "children": [
           {
-            "id": "de37ac3e5dbcb51b",
+            "id": "d38e406121bd9ffa",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0 - Inbox/AI Reports/RAG (Retrieval-Augmented Generation) - Guide Technique Complet 2025.md",
+                "file": "2 - Notes lectures/Co-Intelligence/Chap 1 - Créer des Esprits Extraterrestres.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "RAG (Retrieval-Augmented Generation) - Guide Technique Complet 2025"
+              "title": "Chap 1 - Créer des Esprits Extraterrestres"
             }
           }
         ]
@@ -45,7 +45,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "Explorateur de fichiers"
             }
           },
           {
@@ -79,7 +79,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 408.5
   },
   "right": {
     "id": "d0642fcb1b835df0",
@@ -173,7 +173,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -182,66 +182,67 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
+      "switcher:Ouvrir le sélecteur rapide": false,
+      "graph:Ouvrir la vue graphique": false,
+      "canvas:Créer une nouvelle toile": false,
+      "daily-notes:Ouvrir la note quotidienne": false,
+      "templates:Insérer le modèle": false,
+      "command-palette:Ouvrir la palette de commandes": false,
       "bases:Create new base": false,
       "obsidian-raindrop-highlights:Sync your Raindrop bookmarks": false,
       "remotely-save:Remotely Save": false,
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "de37ac3e5dbcb51b",
+  "active": "d38e406121bd9ffa",
   "lastOpenFiles": [
-    "0 - Inbox/AI Reports/Les Concepts Réseau Essentiels pour les Développeurs.md",
+    "2 - Notes lectures/Co-Intelligence/Sans titre.md",
+    "2 - Notes lectures/Co-Intelligence/Chap 1 - Créer des Esprits Extraterrestres.md",
+    "2 - Notes lectures/The Age of AI/Chap 1  - L'Ère de l'Intelligence Artificielle,  Synthèse et Implications.md",
+    "0 - Inbox/AI Reports/Le modèle ΛCDM en cosmologie - une synthèse pédagogique.md",
+    "2 - Notes lectures/Co-Intelligence",
+    "0 - Inbox/AI Reports/Recherche Approfondie - Systèmes Agentiques et Prompt Engineering Avancé.md",
     "0 - Inbox/AI Reports/RAG (Retrieval-Augmented Generation) - Guide Technique Complet 2025.md",
+    "0 - Inbox/AI Reports/Plongée en Profondeur dans l'Architecture de Micro-Partitionnement de Snowflake - Des Fondamentaux à l'Optimisation Avancée.md",
+    "9.md",
+    "0 - Inbox/AI Reports/Architectures de l'Intelligence - Un Rapport Technique sur les Systèmes Agentiques et l'Ingénierie de Prompts Avancée.md",
+    "0 - Inbox/AI Reports/Ingénierie des Prompts pour LLM - Une Maîtrise Technique Approfondie.md",
     "0 - Inbox/AI Reports/Ingénierie des Prompts pour LLM - Maîtrise Technique Avancée.md",
+    "2 - Notes lectures/Fondamentaux de Microsoft Azure et Cloud Computing/Chap 2 - Les Fondamentaux de Microsoft Azure.md",
+    "2 - Notes lectures/Fondamentaux de Microsoft Azure et Cloud Computing/Chap 1 - Synthèse sur les Fondamentaux du Cloud Computing.md",
+    "2 - Notes lectures/Fondamentaux de Microsoft Azure et Cloud Computing/attachments/Pasted image 20251010075310.png",
+    "2 - Notes lectures/Fondamentaux de Microsoft Azure et Cloud Computing/attachments/Pasted image 20251009195928.png",
+    "2 - Notes lectures/Fondamentaux de Microsoft Azure et Cloud Computing/attachments/Pasted image 20251009195835.png",
+    "2 - Notes lectures/Fondamentaux de Microsoft Azure et Cloud Computing/attachments/Pasted image 20251009195807.png",
+    "2 - Notes lectures/Fondamentaux de Microsoft Azure et Cloud Computing/attachments/Pasted image 20251009195717.png",
+    "2 - Notes lectures/Fondamentaux de Microsoft Azure et Cloud Computing/attachments/Pasted image 20251009195552.png",
+    "2 - Notes lectures/Fondamentaux de Microsoft Azure et Cloud Computing/attachments/Pasted image 20251009195534.png",
+    "2 - Notes lectures/Fondamentaux de Microsoft Azure et Cloud Computing/attachments/Pasted image 20251009195502.png",
+    "Sans titre.canvas",
+    "Readwise/Full Document Contents/Articles/Reader Frequently Asked Questions.md",
+    "Readwise/Full Document Contents/Articles/Quickly add great reads from the Readwise community to your library.md",
+    "Readwise/Full Document Contents/Articles/Getting Started with Reader.md",
+    "2 - Notes lectures/Fondamentaux de Microsoft Azure et Cloud Computing/attachments/Pasted image 20251009195059.png",
+    "2 - Notes lectures/Fondamentaux de Microsoft Azure et Cloud Computing/attachments",
+    "Pasted image 20251009194627.png",
+    "6 - Notes techniques/README_automatisation.md",
+    "2 - Notes lectures/Fondamentaux de Microsoft Azure et Cloud Computing",
+    "1  - Journaux  & carnet/Daily_notes/2025-10-02.md",
+    "1  - Journaux  & carnet/Daily_notes/2025-09-21.md",
+    "1  - Journaux  & carnet/Daily_notes/2025-08-30.md",
+    "0 - Inbox/AI Reports/Les Concepts Réseau Essentiels pour les Développeurs.md",
     "0 - Inbox/AI Reports/Théorie λ-MCD -Fondements, formalisme et applications.md",
     "2 - Notes lectures/The Age of AI/Chap 7 - L'IA, l'Avenir et la Raison Humaine - Synthèse et Analyse.md",
     "2 - Notes lectures/The Age of AI/Chap 6 - L'IA et l'Identité Humaine.md",
     "2 - Notes lectures/The Age of AI/Chap 5 - Synthèse Stratégique - Sécurité, Ordre Mondial et l'Ère de l'IA.md",
     "2 - Notes lectures/The Age of AI/Chap 4 - L'IA et les Plateformes de Réseau Mondiales -  Synthèse des Implications Sociales et Géopolitiques.md",
-    "6 - Notes techniques/README_automatisation.md",
     "6 - Notes techniques",
     "Untitled.base",
-    "0 - Inbox/Théodose Ier, empereur romain - Résumé et recherches associées.md",
-    "Readwise/Full Document Contents/Articles/Reader Frequently Asked Questions.md",
     "1  - Journaux  & carnet/Daily_notes",
-    "Readwise/Full Document Contents/Articles/Quickly add great reads from the Readwise community to your library.md",
-    "Readwise/Full Document Contents/Articles/Getting Started with Reader.md",
-    "1  - Journaux  & carnet/Daily_notes/2025-09-21.md",
-    "1  - Journaux  & carnet/Daily_notes/2025-08-30.md",
-    "2 - Notes lectures/The Age of AI/Chap 3 - De Turing à l'IA Moderne et au-delà.md",
-    "2 - Notes lectures/The Age of AI/Chap 2 - L'Évolution de la Pensée Humaine et l'Avènement de l'IA.md",
-    "2 - Notes lectures/The Age of AI/Chap 1  - L'Ère de l'Intelligence Artificielle,  Synthèse et Implications.md",
     "2 - Notes lectures/The Age of AI",
-    "Sans titre.canvas",
     "introduction_to_hadoop_and_data_science_4 [Enregistré automatiquement].pptx",
     "Rendu_final.MP4",
     "Notes_DANT_2024_25.xlsx",
-    "introduction_to_hadoop_and_data_science_6 [Enregistré automatiquement].pptx",
-    "Rendu_final.MP4.part",
-    "introduction_to_hadoop_and_data_science_6 [Enregistré automatiquement].pptx.part",
-    "Notes_phones/Théodose Ier, empereur romain - Résumé et recherches associées.md",
-    "Pasted image 20250918220112.png",
-    "Notations d'Adresses IP et Plages (CIDR) - visual selection.png",
-    "Pasted image 20250918215438.png",
-    "Pasted image 20250918223048.png",
-    "Pasted image 20250918220815.png",
-    "Pasted image 20250918220441.png",
-    "Pasted image 20250918215806.png",
-    "Pasted image 20250918215716.png",
-    "Pasted image 20250918215418.png",
-    "Pasted image 20250918214239.png",
-    "0 - Inbox/All bookmarks/Researchers From Stanford And DeepMind Come Up With The Idea of Using Large Language Models LLMs as a Proxy Reward Function.md",
-    "0 - Inbox/All bookmarks/Le second cerveau de JCK.md",
-    "0 - Inbox/All bookmarks/How to Create Web Apps with Python, HTML and Thonny.md",
-    "Readwise/Articles/Le Second Cerveau De JCK.md",
-    "Readwise/Articles/How to Create Web Apps With Python, HTML and Thonny.md",
-    "Readwise/Articles/How I Built 6 Micro-Tools in Python That Earn Me Passive Income Daily.md",
     "Sans titre 1.canvas"
   ]
 }
