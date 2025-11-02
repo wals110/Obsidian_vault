@@ -90,9 +90,9 @@ Utilisé lorsque les développeurs disposent d'un ensemble de données où chaqu
 
 • **Exemples :**
 
-    ◦ **Découverte de l'Halicine :** Entraînée sur une base de données de molécules (entrées) étiquetées selon leur efficacité antibiotique (sortie).
+   ◦ **Découverte de l'Halicine :** Entraînée sur une base de données de molécules (entrées) étiquetées selon leur efficacité antibiotique (sortie).
 
-    ◦ **Reconnaissance d'Images :** Entraînée sur des images (entrées) étiquetées avec le nom de l'objet qu'elles contiennent (sortie, ex: "chat").
+   ◦ **Reconnaissance d'Images :** Entraînée sur des images (entrées) étiquetées avec le nom de l'objet qu'elles contiennent (sortie, ex: "chat").
 
 L'Apprentissage Non Supervisé
 
@@ -102,9 +102,9 @@ Employé lorsque les données ne sont pas étiquetées. L'objectif est de décou
 
 • **Exemples :**
 
-    ◦ **Recommandation de Contenus :** Netflix identifie des groupes de clients aux habitudes de visionnage similaires pour leur suggérer des films.
+   ◦ **Recommandation de Contenus :** Netflix identifie des groupes de clients aux habitudes de visionnage similaires pour leur suggérer des films.
 
-    ◦ **Détection de Fraude :** Identification de transactions inhabituelles dans un grand volume de données.
+   ◦ **Détection de Fraude :** Identification de transactions inhabituelles dans un grand volume de données.
 
 L'Apprentissage par Renforcement
 
@@ -114,7 +114,7 @@ Utilisé pour entraîner une IA à agir dans un environnement dynamique.
 
 • **Exemple :**
 
-    ◦ **AlphaZero :** A appris à jouer aux échecs en jouant des millions de parties contre lui-même. Sa fonction de récompense évaluait la qualité de ses coups en fonction des opportunités créées.
+   ◦ **AlphaZero :** A appris à jouer aux échecs en jouant des millions de parties contre lui-même. Sa fonction de récompense évaluait la qualité de ses coups en fonction des opportunités créées.
 
 4. Applications Révolutionnaires et Puissance de l'IA Moderne
 

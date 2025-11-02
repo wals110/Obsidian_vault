@@ -18,11 +18,11 @@ L'émergence de l'IA est comparée à la révolution provoquée par l'imprimerie
 
 • **Impact sur la société :** Cette démocratisation a transformé la relation entre les individus et la connaissance. Elle a permis :
 
-    ◦ La propagation rapide de nouvelles idées à l'échelle continentale [4].
+   ◦ La propagation rapide de nouvelles idées à l'échelle continentale [4].
 
-    ◦ L'auto-apprentissage et la remise en question des vérités établies [4].
+   ◦ L'auto-apprentissage et la remise en question des vérités établies [4].
 
-    ◦ Des bouleversements majeurs dans la religion (la Réforme), la politique (le concept de souveraineté nationale) et la science (la redéfinition de la réalité) [4].
+   ◦ Des bouleversements majeurs dans la religion (la Réforme), la politique (le concept de souveraineté nationale) et la science (la redéfinition de la réalité) [4].
 
 De la même manière, la révolution de l'IA est en passe de transformer la connaissance, la découverte et la pensée, en produisant de nouvelles informations et en générant des avancées scientifiques et économiques majeures [5, 6].
 

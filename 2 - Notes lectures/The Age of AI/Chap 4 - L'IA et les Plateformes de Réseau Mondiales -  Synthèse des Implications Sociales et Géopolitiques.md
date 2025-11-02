@@ -46,11 +46,11 @@ Les plateformes de réseau, conçues comme des entités commerciales, ont assum�
 
 • **Le Défi de la Désinformation :** La lutte contre la désinformation illustre parfaitement ce nouveau paradigme.
 
-    ◦ **Une "Course aux Armements" Automatisée :** La propagation de la désinformation et les efforts pour la contrer seront de plus en plus automatisés. Des IA comme GPT-3 peuvent déjà créer des personnalités synthétiques pour diffuser des discours de haine, une menace que les humains seuls ne peuvent contrer [36].
+   ◦ **Une "Course aux Armements" Automatisée :** La propagation de la désinformation et les efforts pour la contrer seront de plus en plus automatisés. Des IA comme GPT-3 peuvent déjà créer des personnalités synthétiques pour diffuser des discours de haine, une menace que les humains seuls ne peuvent contrer [36].
 
-    ◦ **Le Pouvoir de la Censure :** La réponse repose sur des IA "défensives" qui identifient et bloquent ce contenu. Cependant, le pouvoir de définir ce qui constitue une "fausseté" et d'entraîner l'IA en conséquence devient une fonction d'une importance et d'une influence rivalisant avec celles des gouvernements [38]. De petites variations dans la conception de l'IA peuvent entraîner des résultats qui altèrent la société [38].
+   ◦ **Le Pouvoir de la Censure :** La réponse repose sur des IA "défensives" qui identifient et bloquent ce contenu. Cependant, le pouvoir de définir ce qui constitue une "fausseté" et d'entraîner l'IA en conséquence devient une fonction d'une importance et d'une influence rivalisant avec celles des gouvernements [38]. De petites variations dans la conception de l'IA peuvent entraîner des résultats qui altèrent la société [38].
 
-    ◦ **Influence et Responsabilité :** Ce rôle place les entreprises privées et les gouvernements démocratiques face à une responsabilité inhabituelle et souvent non désirée sur les phénomènes sociaux et culturels [37].
+   ◦ **Influence et Responsabilité :** Ce rôle place les entreprises privées et les gouvernements démocratiques face à une responsabilité inhabituelle et souvent non désirée sur les phénomènes sociaux et culturels [37].
 
 • **Des Dilemmes sans Solution Claire :** Toute tentative de régulation gouvernementale implique des jugements de valeur complexes. La réglementation mènera-t-elle à des sociétés plus justes ou à des gouvernements plus intrusifs utilisant une machine dont la logique est ineffable ? Il est probable que nous soyons confrontés à une série de dilemmes avec des réponses imparfaites [34, 35].
 

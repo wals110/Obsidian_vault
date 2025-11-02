@@ -33,13 +33,13 @@ Le terme « intelligence artificielle » a été inventé en 1956 par John McCar
 
 • **Applications** :
 
-    ◦ Optimisation de la logistique (prévision de la demande, gestion des entrepôts).
+   ◦ Optimisation de la logistique (prévision de la demande, gestion des entrepôts).
 
-    ◦ Systèmes de recommandation de contenu.
+   ◦ Systèmes de recommandation de contenu.
 
-    ◦ Prédiction des cotes de crédit.
+   ◦ Prédiction des cotes de crédit.
 
-    ◦ Traduction automatique et reconnaissance vocale.
+   ◦ Traduction automatique et reconnaissance vocale.
 
 • **Exemple emblématique** : **Amazon** a massivement intégré cette IA pour prévoir la demande, optimiser l'agencement de ses entrepôts avec les robots Kiva et gérer sa chaîne d'approvisionnement.
 
