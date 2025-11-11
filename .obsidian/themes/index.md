@@ -1,4 +1,4 @@
-AnuPpuccin
-Catppuccin
-Minimal
-Typewriter
+[AnuPpuccin](./AnuPpuccin)
+[Catppuccin](./Catppuccin)
+[Minimal](./Minimal)
+[Typewriter](./Typewriter)

@@ -1,6 +1,6 @@
-calendar
-code-block-plugin
-mermaid-tools
-obsidian-raindrop-highlights
-readwise-official
-remotely-save
+[calendar](./calendar)
+[code-block-plugin](./code-block-plugin)
+[mermaid-tools](./mermaid-tools)
+[obsidian-raindrop-highlights](./obsidian-raindrop-highlights)
+[readwise-official](./readwise-official)
+[remotely-save](./remotely-save)
