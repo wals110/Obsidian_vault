@@ -4,8 +4,8 @@ Ceci est la page d'accueil de ma base de connaissances.
 
 ## Accès aux documents
 
-* [Readwise](./Readwise)
-* [Clippings](./Clippings)
+* [Readwise](../Readwise)
+* [Clippings](../Clippings)
 * [6 - Notes techniques](./6%20-%20Notes%20techniques)
 * [2 - Notes lectures](./2%20-%20Notes%20lectures)
 * [4 - Mes écrits & publications](./4%20-%20Mes%20écrits%20&%20publications)
