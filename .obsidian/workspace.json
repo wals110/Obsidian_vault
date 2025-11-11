@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2 - Notes lectures/AI Engineering/Chapter 10. AI Engineering Architecture and User Feedback.md",
+                "file": "3 - Notes permantes/AI/Top 50 - Concepts fondamentaux des grands modèles linguistiques.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Chapter 10. AI Engineering Architecture and User Feedback"
+              "title": "Top 50 - Concepts fondamentaux des grands modèles linguistiques"
             }
           },
           {
@@ -94,7 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 450.5
+    "width": 437.5
   },
   "right": {
     "id": "d0642fcb1b835df0",
@@ -211,13 +211,24 @@
   },
   "active": "d38e406121bd9ffa",
   "lastOpenFiles": [
-    "2 - Notes lectures/AI Engineering/Chapter 9. Inference Optimization.md",
+    "2 - Notes lectures/AI Engineering/Articles/Will we run out of data?/Note d'Information . Limites de la Mise à l'Échelle des LLM dues à l'Épuisement des Données.md",
+    "3 - Notes permantes/AI/Top 50 - Concepts fondamentaux des grands modèles linguistiques.md",
+    "3 - Notes permantes/AI",
+    "2 - Notes lectures/AI Engineering/Articles/Will we run out of data?/Analyse . L'Épuisement Imminent des Données Textuelles Publiques pour l'Entraînement des Modèles de Langage.md",
+    "2 - Notes lectures/AI Engineering/Articles/Will we run out of data?/2211.04325v2.pdf",
+    "2 - Notes lectures/AI Engineering/Articles/Will we run out of data?/attachments/CleanShot 2025-11-03 at 08.46.24.png",
+    "2 - Notes lectures/AI Engineering/Articles/Will we run out of data?/attachments",
+    "2 - Notes lectures/AI Engineering/Chapitre 1. Introduction à la création d'applications d'IA avec des modèles de base.md",
+    "2 - Notes lectures/AI Engineering/Articles/Will we run out of data?",
+    "2 - Notes lectures/AI Engineering/Articles",
+    "2 - Notes lectures/AI Engineering/dossier sans titre",
+    "0 - Inbox/AI Reports/AI/Architectures de l'Intelligence - Un Rapport Technique sur les Systèmes Agentiques et l'Ingénierie de Prompts Avancée.md",
     "2 - Notes lectures/AI Engineering/Chapter 10. AI Engineering Architecture and User Feedback.md",
+    "2 - Notes lectures/AI Engineering/Chapter 9. Inference Optimization.md",
     "2 - Notes lectures/AI Engineering/Chapitre 8. Ingénierie des ensembles de données.md",
     "2 - Notes lectures/AI Engineering/Chapitre 6. RAG et les agents.md",
     "2 - Notes lectures/AI Engineering/Chapitre 7. Finetuning.md",
     "2 - Notes lectures/AI Engineering/Sommaire - Ingénierie de l'IA - Construire des Applications avec Modèles de Fondation.md",
-    "2 - Notes lectures/AI Engineering/Chapitre 1. Introduction à la création d'applications d'IA avec des modèles de base.md",
     "2 - Notes lectures/AI Engineering/Chapitre 5. Prompt Engineering.md",
     "6 - Notes techniques/README_automatisation.md",
     "2 - Notes lectures/AI Engineering/Chapitre 4. Évaluation des systèmes d'IA.md",
@@ -245,19 +256,8 @@
     "0 - Inbox/AI Reports/AI",
     "0 - Inbox/AI Reports/AI/Ingénierie des Prompts pour LLM - Une Maîtrise Technique Approfondie.md",
     "0 - Inbox/AI Reports/AI/Ingénierie des Prompts pour LLM - Maîtrise Technique Avancée.md",
-    "0 - Inbox/AI Reports/AI/Architectures de l'Intelligence - Un Rapport Technique sur les Systèmes Agentiques et l'Ingénierie de Prompts Avancée.md",
     "2 - Notes lectures/AI Engineering/attachments/Pasted image 20251101182515.png",
-    "2 - Notes lectures/AI Engineering/attachments/Pasted image 20251101182327.png",
     "2 - Notes lectures/AI Engineering/attachments",
-    "2 - Notes lectures/AI Engineering",
-    "2 - Notes lectures/Co-Intelligence/PART 2/Chap 9 - Sytnthèse - L'Avenir de l'Intelligence Artificielle - Analyse de Quatre Scénarios Futurs.md",
-    "2 - Notes lectures/Co-Intelligence/PART 2/Chap 8 - Synthèse - L'IA et l'Avenir de l'Expertise Humaine - Synthèse Analytique.md",
-    "2 - Notes lectures/Co-Intelligence/PART 2/Chap 7 - Synthèse - L'Intelligence Artificielle et l'Éducation - Synthèse des Idées Clés.md",
-    "2 - Notes lectures/Co-Intelligence/PART 2",
-    "2 - Notes lectures/Co-Intelligence/PART 1",
-    "2 - Notes lectures/Co-Intelligence",
-    "2 - Notes lectures/Fondamentaux de Microsoft Azure et Cloud Computing/attachments",
-    "2 - Notes lectures/Fondamentaux de Microsoft Azure et Cloud Computing",
     "Sans titre 1.canvas"
   ]
 }
