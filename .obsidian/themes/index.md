@@ -1,0 +1,4 @@
+AnuPpuccin
+Catppuccin
+Minimal
+Typewriter

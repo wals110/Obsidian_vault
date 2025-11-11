@@ -1,0 +1,3 @@
+data.json
+main.js
+manifest.json

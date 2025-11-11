@@ -1,0 +1,10 @@
+app.json
+appearance.json
+backlink.json
+community-plugins.json
+core-plugins.json
+daily-notes.json
+graph.json
+plugins
+themes
+workspace.json

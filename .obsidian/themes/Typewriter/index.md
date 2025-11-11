@@ -1,0 +1,2 @@
+manifest.json
+theme.css

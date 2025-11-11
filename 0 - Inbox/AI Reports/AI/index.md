@@ -1,0 +1,5 @@
+Architectures de l'Intelligence - Un Rapport Technique sur les Systèmes Agentiques et l'Ingénierie de Prompts Avancée.md
+Ingénierie des Prompts pour LLM - Maîtrise Technique Avancée.md
+Ingénierie des Prompts pour LLM - Une Maîtrise Technique Approfondie.md
+RAG (Retrieval-Augmented Generation) - Guide Technique Complet 2025.md
+Recherche Approfondie - Systèmes Agentiques et Prompt Engineering Avancé.md
