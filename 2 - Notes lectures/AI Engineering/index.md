@@ -11,7 +11,7 @@ title: "AI Engineering"
 
 ## Fichiers
 
-* [Chapitre 1. Introduction à la création d'applications d'IA avec des modèles de base.md](./Chapitre%201.%20Introduction%20%C3%A0%20la%20cr%C3%A9ation%20d%27applications%20d%27IA%20avec%20des%20mod%C3%A8les%20de%20base.md)
+* [Chapitre 1. Introduction à la création d'applications d'IA avec des modèles de base](./Chapitre%201.%20Introduction%20%C3%A0%20la%20cr%C3%A9ation%20d%27applications%20d%27IA%20avec%20des%20mod%C3%A8les%20de%20base.md)
 * [Chapitre 2. Comprendre les modèles de fondation.md](./Chapitre%202.%20Comprendre%20les%20mod%C3%A8les%20de%20fondation.md)
 * [Chapitre 3. Méthodologie d'évaluation.md](./Chapitre%203.%20M%C3%A9thodologie%20d%27%C3%A9valuation.md)
 * [Chapitre 4. Évaluation des systèmes d'IA.md](./Chapitre%204.%20%C3%89valuation%20des%20syst%C3%A8mes%20d%27IA.md)
