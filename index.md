@@ -1,4 +1,4 @@
-* [0 - Inbox](./0 - Inbox)
+* [0 - Inbox](./"0 - Inbox")
 * [1  - Journaux  & carnet](./1  - Journaux  & carnet)
 * [2 - Notes lectures](./2 - Notes lectures)
 * [3 - Notes permantes](./3 - Notes permantes)
