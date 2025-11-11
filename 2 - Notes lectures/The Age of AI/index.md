@@ -1,7 +1,0 @@
-* [Chap 1  - L'Ère de l'Intelligence Artificielle,  Synthèse et Implications.md](./Chap 1  - L'Ère de l'Intelligence Artificielle,  Synthèse et Implications.md)
-* [Chap 2 - L'Évolution de la Pensée Humaine et l'Avènement de l'IA.md](./Chap 2 - L'Évolution de la Pensée Humaine et l'Avènement de l'IA.md)
-* [Chap 3 - De Turing à l'IA Moderne et au-delà.md](./Chap 3 - De Turing à l'IA Moderne et au-delà.md)
-* [Chap 4 - L'IA et les Plateformes de Réseau Mondiales -  Synthèse des Implications Sociales et Géopolitiques.md](./Chap 4 - L'IA et les Plateformes de Réseau Mondiales -  Synthèse des Implications Sociales et Géopolitiques.md)
-* [Chap 5 - Synthèse Stratégique - Sécurité, Ordre Mondial et l'Ère de l'IA.md](./Chap 5 - Synthèse Stratégique - Sécurité, Ordre Mondial et l'Ère de l'IA.md)
-* [Chap 6 - L'IA et l'Identité Humaine.md](./Chap 6 - L'IA et l'Identité Humaine.md)
-* [Chap 7 - L'IA, l'Avenir et la Raison Humaine - Synthèse et Analyse.md](./Chap 7 - L'IA, l'Avenir et la Raison Humaine - Synthèse et Analyse.md)
