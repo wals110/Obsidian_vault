@@ -1,2 +1,2 @@
-[main.js](./main.js)
-[manifest.json](./manifest.json)
+* [main.js](./main.js)
+* [manifest.json](./manifest.json)

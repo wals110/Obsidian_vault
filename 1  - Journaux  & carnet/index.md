@@ -1,1 +1,1 @@
-[Daily_notes](./Daily_notes)
+* [Daily_notes](./Daily_notes)

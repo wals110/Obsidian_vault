@@ -1,1 +1,1 @@
-[Articles](./Articles)
+* [Articles](./Articles)

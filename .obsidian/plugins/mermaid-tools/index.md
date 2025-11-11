@@ -1,3 +1,3 @@
-[main.js](./main.js)
-[manifest.json](./manifest.json)
-[styles.css](./styles.css)
+* [main.js](./main.js)
+* [manifest.json](./manifest.json)
+* [styles.css](./styles.css)
